@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webster-hunter
 - 👀 I’m interested in predictive data analytics and machine learning
-- 🌱 I’m currently learning SQL, JavaScript, and RESTful API
+- 🌱 I’m currently learning C++, SQL, JavaScript, Python, and RESTful API
 - 📫 Contact Me: webster.hunter@protonmail.com or on Twitter @websterhunter
 
 <!---
