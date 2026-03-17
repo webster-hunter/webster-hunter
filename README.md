@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Former Software Engineer at Southwest Airlines & Paycom, now exploring IaC Solutions for small businesses!
+- Former SWE @ Southwest Airlines & Paycom
 - 📍 DTX
 
 ## Skills
